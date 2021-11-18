@@ -14,11 +14,11 @@ Users should be able to:
 
 #### Desktop Screenshots
 
-![Desktop screenshots](screenshots\Desktop-screenshots.png)
+![Desktop screenshots](https://github.com/DimasAdiPutra/stats-preview-card-component-main/blob/main/screenshots/Desktop-screenshots.png?raw=true)
 
 #### Mobile Screenshots
 
-![Mobile screenshots](screenshots\Mobile-screenshots.png)
+![Mobile screenshots](https://github.com/DimasAdiPutra/stats-preview-card-component-main/blob/main/screenshots/Mobile-screenshots.png?raw=true)
 
 ### Links
 
