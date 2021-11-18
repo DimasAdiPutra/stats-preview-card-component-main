@@ -12,12 +12,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop Screenshots
+
+![Desktop screenshots](screenshots\Desktop-screenshots.png)
+
+#### Mobile Screenshots
+
+![Mobile screenshots](screenshots\Mobile-screenshots.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/DimasAdiPutra/stats-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://dimasadiputra.github.io/stats-preview-card-component-main/)
 
 ## My process build
 
